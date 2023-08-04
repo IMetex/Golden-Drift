@@ -8,6 +8,6 @@ public class Rotate : MonoBehaviour
 
     private void FixedUpdate()
     {
-        transform.Rotate(_offset,Space.World);
+        transform.Rotate(_offset);
     }
 }
