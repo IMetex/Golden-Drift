@@ -97,9 +97,4 @@ public class CarSelection : MonoBehaviour
         PlayerPrefs.SetInt("descriptionIndex", indexDescription);
         PlayerPrefs.Save();
     }
-
-    public void Race()
-    {
-        SceneManager.LoadScene("Level 1");
-    }
 }

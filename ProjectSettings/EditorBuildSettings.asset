@@ -6,12 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/StartPage.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: 23b7a2c43a8b104418dd0f7bb4ebf21d
   - enabled: 1
-    path: Assets/Scenes/SelectMenu.unity
+    path: Assets/Scenes/LevelSelectMenu.unity
+    guid: b3223abc6aee11c4fbc9bf4c0a4cbabf
+  - enabled: 1
+    path: Assets/Scenes/CarSelectMenu.unity
     guid: ff22e27514cd4d14584babbcb5b73636
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Level1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 575ca8e3892ecf14880666691e92e92c
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c530002aa4d4c7f45b1e208b463b3822
   m_configObjects: {}
